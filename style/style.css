@@ -32,7 +32,7 @@ body{
     display: flex;
     column-gap: 14px;
     align-items: center;
-    margin-left: 13px;
+    margin-left: 26px;
     
   
     
@@ -83,6 +83,18 @@ body{
     text-decoration-style: solid;
     cursor: pointer;
   
+}
+.slct3{
+    color: #5f6368;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 0px 0px 0px 18px;
+    font-size: 14px;
+    font-weight:500;
+    text-decoration-color:rgb(95, 99, 104) ;
+    text-decoration-style: solid;
+    cursor: pointer;
+    border: none;
+    
 }
 .banner-txt:hover{
     color: black;
@@ -143,7 +155,7 @@ body{
     height: 30px;
     width: 30px;
     border-radius: 30px;
-    border-width: 01px;
+    border-width: 1px;
     cursor: pointer;
     border-color: rgb(218, 220, 224);
  
@@ -153,7 +165,7 @@ body{
 }
 .svg{
     margin-left: 13.4px;
-    margin-bottom: -8px;
+    margin-bottom: -6px;
 }
 .prof{
     margin-right: 16px;
